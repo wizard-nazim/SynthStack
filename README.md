@@ -1,0 +1,2 @@
+# SynthStack
+VST Plugin Manager
