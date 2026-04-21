@@ -1,4 +1,4 @@
-# SynthStack
+<h1 align="center">SynthStack</h1> 
 
 ---
 
